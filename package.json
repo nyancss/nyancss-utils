@@ -7,7 +7,7 @@
   "author": "Sasha Koss <koss@nocorp.me>",
   "license": "MIT",
   "dependencies": {
-    "@nyancss/types": "../nyancss-types/lib"
+    "@nyancss/types": "^1"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.4.5",
