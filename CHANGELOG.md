@@ -7,6 +7,16 @@ This change log follows the format documented in [Keep a CHANGELOG].
 [semantic versioning]: http://semver.org/
 [keep a changelog]: http://keepachangelog.com/
 
+## 1.2.0 - 2019-06-23
+
+### Changed
+
+- Moved parse parse utils into a subdirectory and reexport its functionality from the package root.
+
+### Added
+
+- Added stringify utils supposed to be used in framework adapters.
+
 ## 1.1.0 - 2019-06-16
 
 ### Added
